@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HowLong</string>
+    <string name="campus_connect">Campus Point</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="navigate_campuses">Navigate campuses.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="googel_maps_key"> AIzaSyB-CcQ5Zp3-d-Iq3PsX2N9OdeM-3Esu7iI</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="campuses">Campuses.</string>
+    <string name="navigation">Navigation</string>
+    <string name="details">Details</string>
+    <string name="fuculties"><b>Faculties:\n</b></string>
+    <string name="services"><b>Services:\n</b></string>
+</resources>
